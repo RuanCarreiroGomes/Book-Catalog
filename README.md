@@ -3,9 +3,9 @@
 A new Flutter project.
 
 <p align="center">
-  <img src="https://github.com/RuanCarreiroGomes/Catalogo-de-livros/blob/main/Book%20Catalog/GIF-210511_114922.gif" width="200">
-  <img src="https://github.com/RuanCarreiroGomes/Catalogo-de-livros/blob/main/Book%20Catalog/GIF-210511_114537.gif" width="200">
-  <img src="https://github.com/RuanCarreiroGomes/Catalogo-de-livros/blob/main/Book%20Catalog/GIF-210511_114124.gif" width="200">
+  <img src="https://github.com/RuanCarreiroGomes/Catalogo-de-livros/blob/main/Book%20Catalog/GIF-210511_114922.gif" width="300">
+  <img src="https://github.com/RuanCarreiroGomes/Catalogo-de-livros/blob/main/Book%20Catalog/GIF-210511_114537.gif" width="300">
+  <img src="https://github.com/RuanCarreiroGomes/Catalogo-de-livros/blob/main/Book%20Catalog/GIF-210511_114124.gif" width="300">
 </p>
 
 ## Getting Started
