@@ -1,6 +1,6 @@
 # Catalogo-de-livros
 
-A new Flutter project.
+Flutter project to catalog books.
 
 <p align="center">
   <img src="https://github.com/RuanCarreiroGomes/Catalogo-de-livros/blob/main/Book%20Catalog/GIF-210511_114922.gif" width="300">
