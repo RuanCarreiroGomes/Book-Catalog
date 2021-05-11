@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<center><img src="https://github.com/RuanCarreiroGomes/Catalogo-de-livros/blob/main/Book%20Catalog/GIF-210511_114922.gif"></center>
+<center><img src="https://github.com/RuanCarreiroGomes/Catalogo-de-livros/blob/main/Book%20Catalog/GIF-210511_114922.gif" width="200"></center>
 
 ## Getting Started
 
